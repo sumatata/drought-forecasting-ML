@@ -8,6 +8,12 @@ This project applies machine learning to forecast drought severity levels in U.S
 - **Drought Labels**: U.S. Drought Monitor
 - **Granularity**: Weekly data by U.S. county (FIPS)
 
+## Data Access
+
+All datasets and data extraction scripts used in this project, which were created by me, are available in my shared Google Drive folder below:
+
+[Google Drive Folder – Drought Project Files](https://drive.google.com/drive/folders/1c2j4y4eNRAudATRU4e7QfeA5ub57Q02_?usp=sharing)
+
 ##  Methodology
 - Merged drought and weather data by FIPS and week
 - Feature engineering on key weather variables
